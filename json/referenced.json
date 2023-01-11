@@ -1,0 +1,267 @@
+[
+    {
+        "brand": {
+            "name": "Marca",
+            "companies": [
+                {
+                    "name": "Nome da sociedade",
+                    "cnpjNumber": "CNPJ da sociedade",
+                    "identification": [
+                        {
+                            "name": "Nome do Prestador de Serviços",
+                            "cnpjNumber": "CNPJ do prestador de serviço",
+                            "products": [
+                                {
+                                    "code": "Código de identificação do produto",
+                                    "name": "Nome fantasia",
+                                    "coverage": [
+                                        "Nome cobertura*"
+                                    ]
+                                }
+                            ],
+                            "postalAddress": [
+                                {
+                                    "address": "Endereço Completo",
+                                    "additionalInfo": "Complemento*",
+                                    "districtName": "Bairro*",
+                                    "townName": "Município",
+                                    "ibgeCode": "Código IBGE de município",
+                                    "countrySubDivision": "Sigla da Unidade de Federação",
+                                    "postCode": "CEP",
+                                    "country": "País*",
+                                    "countryCode": "Código de país*",
+                                    "geographicCoordinates": {
+                                        "latitude": "Latitude*",
+                                        "longitude": "Longitude*"
+                                    }
+                                }
+                            ],
+                            "access": [
+                                {
+                                    "standards": [
+                                        {
+                                            "openingTime": "Horário de abertura*",
+                                            "closingTime": "Horario de encerramento*",
+                                            "weekday": "Dias de Funcionamento*"
+                                        }
+                                    ],
+                                    "restrictionIndicator": "Indicador de resstrição de acesso*",
+                                    "phones": [
+                                        {
+                                            "type": "Tipo de Telefone*",
+                                            "countryCallingCode": "DDI*",
+                                            "areaCode": "DDD*",
+                                            "number": "Número de telefone*"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "type": "Tipo de prestação de serviços",
+                                    "typeOthers": "string",
+                                    "name": [
+                                        "Nome dos serviços prestados"
+                                    ],
+                                    "description": "Descrição dos serviços prestados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "brand": {
+            "name": "BNP Paribas Cardif",
+            "companies": [
+                {
+                    "name": "CARDIF DO BRASIL SEGUROS E GARANTIAS S/A",
+                    "cnpjNumber": "8279191000184",
+                    "identification": [
+                        {
+                            "name": "A A DA SILVA COMERCIO E SERVIÇOS LTDA",
+                            "cnpjNumber": "9050878000106",
+                            "products": [
+                                {
+                                    "code": "",
+                                    "name": "",
+                                    "coverage": [
+                                        "Garantia Estendida",
+                                        "Quebra Acidental",
+                                        "Garantia teste"
+                                    ]
+                                }
+                            ],
+                            "postalAddress": [
+                                {
+                                    "address": "Avenida Senador Quintino, 178",
+                                    "additionalInfo": "",
+                                    "districtName": "Olhos Dagua",
+                                    "townName": "Feira de Santana",
+                                    "ibgeCode": "2910800",
+                                    "countrySubDivision": "BA",
+                                    "postCode": "44003677",
+                                    "country": "BRASIL",
+                                    "countryCode": "BRA",
+                                    "geographicCoordinates": {
+                                        "latitude": "",
+                                        "longitude": ""
+                                    }
+                                }
+                            ],
+                            "access": [
+                                {
+                                    "standards": [
+                                        {
+                                            "openingTime": "",
+                                            "closingTime": "",
+                                            "weekday": ""
+                                        }
+                                    ],
+                                    "restrictionIndicator": "",
+                                    "phones": [
+                                        {
+                                            "type": "fixo",
+                                            "countryCallingCode": "55",
+                                            "areaCode": "75",
+                                            "number": "36259714"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "type": "SERVICO_DE_MANUTENCAO",
+                                    "typeOthers": "string",
+                                    "name": [
+                                        "CONSERTO_DE_ELETRODOMESTICOS_LINHA_MARROM"
+                                    ],
+                                    "description": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A J CARRIJO ME",
+                            "cnpjNumber": "3520074000147",
+                            "products": [
+                                {
+                                    "code": "",
+                                    "name": "",
+                                    "coverage": [
+                                        "Garantia Estendida",
+                                        "Quebra Acidental"
+                                    ]
+                                }
+                            ],
+                            "postalAddress": [
+                                {
+                                    "address": "Avenida Senador Quintino, 178",
+                                    "additionalInfo": "",
+                                    "districtName": "Olhos Dagua",
+                                    "townName": "Feira de Santana",
+                                    "ibgeCode": 2910800,
+                                    "countrySubDivision": "BA",
+                                    "postCode": 44003677,
+                                    "country": "BRASIL",
+                                    "countryCode": "BRA"
+                                }
+                            ],
+                            "access": [
+                                {
+                                    "standards": [],
+                                    "restrictionIndicator": false,
+                                    "phones": []
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "type": "SERVICO_DE_MANUTENCAO",
+                                    "typeOthers": "string",
+                                    "name": [
+                                        "CONSERTO_DE_ELETROELETRONICO_LINHA_MARROM"
+                                    ],
+                                    "description": "Conserto De Eletroeletrônico - Linha Marrom"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "brand": {
+            "name": "Luizaseg",
+            "companies": [
+                {
+                    "name": "Magazine Luiza Seguros",
+                    "cnpjNumber": "8279191000184",
+                    "identification": [
+                        {
+                            "name": "A J CARRIJO ME",
+                            "cnpjNumber": "3520074000147",
+                            "products": [
+                                {
+                                    "code": "",
+                                    "name": "",
+                                    "coverage": [
+                                        "Garantia Estendida"
+                                    ]
+                                }
+                            ],
+                            "postalAddress": [
+                                {
+                                    "address": "Avenida Professor João Gomes Monteiro Sobrinho, 921",
+                                    "additionalInfo": "Master Som Imagem",
+                                    "districtName": "LIXEIRA",
+                                    "townName": "CUIABA",
+                                    "ibgeCode": "5103403",
+                                    "countrySubDivision": "MT",
+                                    "postCode": "78008800",
+                                    "country": "BRASIL",
+                                    "countryCode": "BRA",
+                                    "geographicCoordinates": {
+                                        "latitude": "",
+                                        "longitude": ""
+                                    }
+                                }
+                            ],
+                            "access": [
+                                {
+                                    "standards": [
+                                        {
+                                            "openingTime": "",
+                                            "closingTime": "",
+                                            "weekday": ""
+                                        }
+                                    ],
+                                    "restrictionIndicator": "",
+                                    "phones": [
+                                        {
+                                            "type": "fixo",
+                                            "countryCallingCode": "55",
+                                            "areaCode": "65",
+                                            "number": "33228617"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "services": [
+                                {
+                                    "type": "SERVICO_DE_MANUTENCAO",
+                                    "typeOthers": "string",
+                                    "name": [
+                                        "CONSERTO_DE_ELETRODOMESTICOS_LINHA_MARROM"
+                                    ],
+                                    "description": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
